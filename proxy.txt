@@ -1,1 +1,10 @@
-PASTE YOUR PROXY HERE
+31.59.20.176:6754:gmitoppz:4qzs7zjxucbe
+23.95.150.145:6114:gmitoppz:4qzs7zjxucbe
+198.23.239.134:6540:gmitoppz:4qzs7zjxucbe
+45.38.107.97:6014:gmitoppz:4qzs7zjxucbe
+107.172.163.27:6543:gmitoppz:4qzs7zjxucbe
+198.105.121.200:6462:gmitoppz:4qzs7zjxucbe
+216.10.27.159:6837:gmitoppz:4qzs7zjxucbe
+142.111.67.146:5611:gmitoppz:4qzs7zjxucbe
+191.96.254.138:6185:gmitoppz:4qzs7zjxucbe
+31.58.9.4:6077:gmitoppz:4qzs7zjxucbe
